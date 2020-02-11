@@ -6,7 +6,7 @@
             </tr>
             <tr>
                 <td>1</td>
-                <td><a href="#what-is-angular">What is Angular?</a></td>
+                <td>[GitHub Pages](https://pages.github.com/).<a href="#what-is-angular">What is Angular?</a></td>
             </tr>
         </table>
 
