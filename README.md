@@ -10,4 +10,10 @@ Angular is an app-design framework and development platform for creating efficie
 Angular is an open-source front-end framework developed by Google for creating dynamic, modern web apps. First introduced in 2009, the framework has gained huge traction over the years for eliminating unnecessary code and ensuring lighter & faster apps.
 
 Having rapidly evolved from AngularJS in 2010 to Angular 5 in 2017, the front-end framework is today used by more than 44.3% of software engineers for creating user interfaces (Stack Overflow Developer Survey 2017).
+#### Some of the key points are 
+- Easy Testing & Simplified Unit Testing
+- Modular Structure
+- Code Consistency
+- Reusability
+- Ease of maintainance & Improved readability
 
