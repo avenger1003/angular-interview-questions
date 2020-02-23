@@ -27,6 +27,6 @@ Having rapidly evolved from AngularJS in 2010 to Angular 5 in 2017, the front-en
 
 #### Lifecycle sequence
 1. ngOnChanges()
-- Respond when Angular (re)sets data-bound input properties. The method receives a SimpleChanges object of current and previous property values.
+Respond when Angular (re)sets data-bound input properties. The method receives a SimpleChanges object of current and previous property values.
 Called before ngOnInit() and whenever one or more data-bound input properties change.
 
