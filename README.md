@@ -2,7 +2,7 @@
 
 #### 1. [What is Angular?](#1-what-is-angular)
 #### 2. [Why Angular?](#2-why-angular)
-#### 3. [Explain Angular component/directive lifecycle hooks?](#3-explain-angular-componentdirective-lifecycle-hooks)
+#### 3. [Explain Angular component/directive lifecycle hooks?](#3-explain-angular-componentdirective-lifecycle-hooks-1)
 
 #### 1. [What is Angular?]
 Angular is an app-design framework and development platform for creating efficient and sophisticated single-page apps.
