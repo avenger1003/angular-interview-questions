@@ -24,3 +24,9 @@ Having rapidly evolved from AngularJS in 2010 to Angular 5 in 2017, the front-en
 - Each interface has a single hook method whose name is the interface name prefixed with ng. For example, the OnInit interface has a hook method named ngOnInit() that Angular calls shortly after creating the component:
 
 #### NOTE: No directive or component will implement all of the lifecycle hooks. Angular only calls a directive/component hook method if it is defined.
+
+#### Lifecycle sequence
+- ngOnChanges()
+Respond when Angular (re)sets data-bound input properties. The method receives a SimpleChanges object of current and previous property values.
+Called before ngOnInit() and whenever one or more data-bound input properties change.
+
