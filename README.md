@@ -18,7 +18,7 @@ Having rapidly evolved from AngularJS in 2010 to Angular 5 in 2017, the front-en
 - Reusability
 - Ease of maintainance & Improved readability
 
-#### 3. [Explain Angular component/directive lifecycle hooks?]
+#### 3. Explain Angular component/directive lifecycle hooks?
 - Directive and component instances have a lifecycle as Angular creates, updates, and destroys them. 
 - Developers can tap into key moments in that lifecycle by implementing one or more of the lifecycle hook interfaces in the Angular core library.
 - Each interface has a single hook method whose name is the interface name prefixed with ng. For example, the OnInit interface has a hook method named ngOnInit() that Angular calls shortly after creating the component:
