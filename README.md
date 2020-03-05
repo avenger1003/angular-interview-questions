@@ -4,6 +4,7 @@
 #### 2. [Why Angular?](#2-why-angular-1)
 #### 3. [Explain Angular component/directive lifecycle hooks?](#3-explain-angular-componentdirective-lifecycle-hooks-1)
 #### 4. [What is Observable?](#4-what-is-observable-1)
+#### 5. [What are the advantages of Observable?](#5-what-are-the-advantages-of-observable-1)
 
 #### 1. What is Angular?
 Angular is an app-design framework and development platform for creating efficient and sophisticated single-page apps.
@@ -61,3 +62,9 @@ Called just before Angular destroys the directive/component.
 
 ### 4. What is Observable?
 An Observable is a function that can return a stream of values to an observer over time, this can either be synchronously or asynchronously. The data values returned can go from zero to an infinite range of values.
+
+### 5. What are the advantages of Observable?
+- Emitting multiple values asynchronously is very easily handled with Observables
+- Error handlers can also easily be done inside Observables rather than a construct like promises
+- Observables are considered lazy, so in case of no subscription there will be no emission of data values
+- Observables can be resolved multiple times as opposed to functions or even promises
