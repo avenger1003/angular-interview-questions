@@ -3,6 +3,7 @@
 #### 1. [What is Angular?](#1-what-is-angular-1)
 #### 2. [Why Angular?](#2-why-angular-1)
 #### 3. [Explain Angular component/directive lifecycle hooks?](#3-explain-angular-componentdirective-lifecycle-hooks-1)
+#### 4. [What is Observable?](#4-what-is-observable)
 
 #### 1. What is Angular?
 Angular is an app-design framework and development platform for creating efficient and sophisticated single-page apps.
@@ -57,3 +58,6 @@ Called after the ngAfterViewInit() and every subsequent ngAfterContentChecked().
 ##### 8. ngOnDestroy()
 Cleanup just before Angular destroys the directive/component. Unsubscribe Observables and detach event handlers to avoid memory leaks.
 Called just before Angular destroys the directive/component.
+
+### 4. What is Observable?
+An Observable is a function that can return a stream of values to an observer over time, this can either be synchronously or asynchronously. The data values returned can go from zero to an infinite range of values.
