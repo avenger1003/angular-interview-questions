@@ -5,7 +5,7 @@
 #### 3. [Explain Angular component/directive lifecycle hooks?](#3-explain-angular-componentdirective-lifecycle-hooks-1)
 #### 4. [What is Observable?](#4-what-is-observable-1)
 #### 5. [What are the advantages of Observable?](#5-what-are-the-advantages-of-observable-1)
-#### 6. [Observable Lifecycle](#6-observale-lifecycle)
+#### 6. [Observable Lifecycle](#6-observable-lifecycle)
 
 #### 1. What is Angular?
 Angular is an app-design framework and development platform for creating efficient and sophisticated single-page apps.
