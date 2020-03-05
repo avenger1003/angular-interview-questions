@@ -70,7 +70,7 @@ An Observable is a function that can return a stream of values to an observer ov
 - Observables are considered lazy, so in case of no subscription there will be no emission of data values
 - Observables can be resolved multiple times as opposed to functions or even promises
 
-### 6. Observable Lifecyle!
+### 6. Observable Lifecyle
 There are 4 stages, with some help from observers and subscriptions the Observable instance passes through these four stages throughout its lifetime:
 - Creation
 - Subscription
